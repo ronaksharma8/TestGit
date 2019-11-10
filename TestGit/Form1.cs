@@ -21,6 +21,9 @@ namespace TestGit
         {
             // This line is added for prod issue fix immediately..
             Console.WriteLine("This is current prod issue fixed");
+
+            // this line is added to fix production release fix...
+            Console.WriteLine("This is prod release fixed");
         }
     }
 }
