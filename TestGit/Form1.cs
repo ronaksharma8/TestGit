@@ -23,7 +23,10 @@ namespace TestGit
             Console.WriteLine("This is current prod issue fixed");
 
             // this line is added to fix production release fix...
-            Console.WriteLine("This is prod release fixed");
+            Console.WriteLine("This is prod release issue fixed");
+
+            // this line is added to fix another production release issue after fixing current prod issue..
+            Console.WriteLine("This is another prod release issue fixed");
         }
     }
 }
